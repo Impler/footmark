@@ -8,13 +8,13 @@ html
 ```
 css  
 ```css
-	div{
-		width:200px;
-	}`  
-	#d1{
-		
-	}
-	#d2{
-		
-	}
+div{
+	width:200px;
+}
+#d1{
+	
+}
+#d2{
+	
+}
 ```  
